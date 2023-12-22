@@ -1,0 +1,27 @@
+[
+    {
+        "value": "1",
+        "description": "Cédula de ciudadanía",
+        "name": "C.C."
+    },
+    {
+        "value": "2",
+        "description": "Cédula de extranjería",
+        "name": "C.E."
+    },
+    {
+        "value": "3",
+        "description": "NIT",
+        "name": "NIT"
+    },
+    {
+        "value": "4",
+        "description": "Tarjeta de identidad",
+        "name": "T.I."
+    },
+    {
+        "value": "5",
+        "description": "Pasaporte",
+        "name": "PAS"
+    }
+]

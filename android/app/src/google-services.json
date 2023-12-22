@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22372293887",
+    "project_id": "movilgo-f7ffb",
+    "storage_bucket": "movilgo-f7ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22372293887:android:48e2cacdb8475d1a7ec0ca",
+        "android_client_info": {
+          "package_name": "com.movilgo_react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22372293887-spnmn23mv4vmbhvpr9sag3lahmq33eau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbl3s2V05n98cDTQiQ54TDQL49X7gMtD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22372293887-spnmn23mv4vmbhvpr9sag3lahmq33eau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
